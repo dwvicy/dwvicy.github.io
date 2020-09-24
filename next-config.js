@@ -1,5 +1,10 @@
-const debug = process.env.NODE_ENV !== 'production'
-
+const debug = process.env.NODE_ENV !== "production";
 module.exports = {
-  assetPrefix: !debug ? '/dwvicy/' : '',
+  exportPathMap: function () {
+    return {
+      "/": { page: "/" },
+      "/ap-grid-layout": { page: "/ap-grid-layout" },
+    }
+  },
+  assetPrefix: !debug ? 'https://vaishnavidwivedi.me/dwvicy/' : '',
 }
