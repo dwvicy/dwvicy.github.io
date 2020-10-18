@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "./static/css/main.5f361e03.chunk.css",
-    "main.js": "./static/js/main.92e7c015.chunk.js",
-    "main.js.map": "./static/js/main.92e7c015.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.ac138d89.js",
-    "runtime-main.js.map": "./static/js/runtime-main.ac138d89.js.map",
-    "static/js/2.495e09b5.chunk.js": "./static/js/2.495e09b5.chunk.js",
-    "static/js/2.495e09b5.chunk.js.map": "./static/js/2.495e09b5.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.459b98b23d31da0cbed01e08c73a2ed9.js": "./precache-manifest.459b98b23d31da0cbed01e08c73a2ed9.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "./static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.495e09b5.chunk.js.LICENSE.txt": "./static/js/2.495e09b5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "./static/media/logo.5d5d9eef.svg"
+    "main.css": "/vaishnavidwivedi.me/static/css/main.5f361e03.chunk.css",
+    "main.js": "/vaishnavidwivedi.me/static/js/main.225967c3.chunk.js",
+    "main.js.map": "/vaishnavidwivedi.me/static/js/main.225967c3.chunk.js.map",
+    "runtime-main.js": "/vaishnavidwivedi.me/static/js/runtime-main.337b50de.js",
+    "runtime-main.js.map": "/vaishnavidwivedi.me/static/js/runtime-main.337b50de.js.map",
+    "static/js/2.495e09b5.chunk.js": "/vaishnavidwivedi.me/static/js/2.495e09b5.chunk.js",
+    "static/js/2.495e09b5.chunk.js.map": "/vaishnavidwivedi.me/static/js/2.495e09b5.chunk.js.map",
+    "index.html": "/vaishnavidwivedi.me/index.html",
+    "precache-manifest.bf7dce77a4dc66bdd37e278d8407a1c8.js": "/vaishnavidwivedi.me/precache-manifest.bf7dce77a4dc66bdd37e278d8407a1c8.js",
+    "service-worker.js": "/vaishnavidwivedi.me/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/vaishnavidwivedi.me/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.495e09b5.chunk.js.LICENSE.txt": "/vaishnavidwivedi.me/static/js/2.495e09b5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/vaishnavidwivedi.me/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ac138d89.js",
+    "static/js/runtime-main.337b50de.js",
     "static/js/2.495e09b5.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.92e7c015.chunk.js"
+    "static/js/main.225967c3.chunk.js"
   ]
 }
