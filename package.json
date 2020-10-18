@@ -1,6 +1,6 @@
 {
   "name": "dwvicy.github.io",
-  "homepage": "https://vaishnavidwivedi.me/",
+  "homepage": "https://vaishnavidwivedi.me",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn run build",
-    "deploy" : "gh-pages -d build"
+    "deploy" : "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
