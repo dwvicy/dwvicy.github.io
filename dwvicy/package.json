@@ -1,11 +1,15 @@
 {
   "name": "dwvicy",
+  "homepage": "./",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "start": "next start",
     "build": "next build",
-    "start": "next start"
+    "test": "next test",
+    "eject": "next eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build"
   },
   "dependencies": {
     "next": "10.0.2",
