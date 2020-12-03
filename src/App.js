@@ -25,8 +25,8 @@ function App() {
         <Route path="/articles" component={Articles} />
 
        
-        <h1 className='body'> Vaishnavi Dwivedi </h1>
-        <p className="body">
+        <h1 className='h1'> Vaishnavi Dwivedi </h1>
+        <p className="body-text">
           This page is currently under construction!
         </p>
         
