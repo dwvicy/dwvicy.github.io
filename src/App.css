@@ -13,7 +13,7 @@
   }
 } */
 .h1 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 40px;
 }
 
@@ -26,15 +26,15 @@
   justify-content: center;
   font-size: calc(20px + 2vmin);
   color: white;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 .body{
-font-family: 'Playfair Display', serif;
+font-family: 'Poppins', serif;
 }
 
 .App-link {
   color: #f4c4e5;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Poppins', serif;
 }
 
 /* 
