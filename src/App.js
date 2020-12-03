@@ -14,7 +14,6 @@ function App() {
 
 <Navbar  />
 
-</div>
 
 
 
@@ -26,30 +25,32 @@ function App() {
         <Route path="/articles" component={Articles} />
 
        
-      
+        <h1 className='body'> Vaishnavi Dwivedi </h1>
+        <p className="body">
+          This page is currently under construction!
+        </p>
+        
+         <button class="bg-pink-500 hover:bg-pink-400 text-white font-bold py-2 px-4 border-b-4 border-pink-700 hover:border-pink-500 rounded">
+ 
+  <a
+          className="App-link"
+          href="https://drive.google.com/file/d/1_Vn7xEqxIC_zUSCiwE5mDIMKwoaDeOpw/view?usp=sharing"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+   Have a look at my resume
+        </a> 
+</button>
            
             
      
         
-{/*         
-      <h1 className='body'> Vaishnavi Dwivedi </h1>
-        <p className="body">
-          This page is currently under construction!
-        </p>
-        {/* <a
-          className="App-link"
-          href="https://drive.google.com/file/d/1bkohBsfrMk2q1qhbg_xf-CEWo_SsISic/view?usp=sharing"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Here's my resume
-        </a> }
-         <button class="bg-pink-500 hover:bg-pink-400 text-white font-bold py-2 px-4 border-b-4 border-pink-700 hover:border-pink-500 rounded">
-  Have a look at my resume
-</button>
+        
+      </div>
+      
+</div>
 
-       */}
-    </div>
+  
     </BrowserRouter>
   );
 }

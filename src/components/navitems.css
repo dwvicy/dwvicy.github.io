@@ -18,6 +18,14 @@
     animation: moveDown 0.5s ease-in-out;
   }
 
+.a {
+color: azure;
+}
+.a:hover{
+  color: #f4c4e5;
+  text-decoration: none;
+}
+
 .Logo {
     background-image: url(./ww84.png);
     height: 20vmin;
