@@ -1,9 +1,11 @@
 import React from "react"
+import TypeEff from '../components/TypeWrittingEffect'
  
 function About(props) {
   return (
-    <div>
-      <h1>About</h1>
+    <div class="my-10 mx-10">
+      <h1 style={{fontSize:"x-large"}}>A little bit about me</h1>
+      <TypeEff/>
     </div>
   )
 }

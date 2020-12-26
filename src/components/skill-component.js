@@ -1,4 +1,4 @@
-import { stringify } from 'postcss';
+
 import React from 'react';
 import skills from '../content/skills'
 export default class Skills extends React.Component{

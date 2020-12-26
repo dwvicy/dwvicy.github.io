@@ -1,6 +1,5 @@
 import React from 'react';
 import Skills from '../components/skill-component';
-import TypeEff from '../components/TypeWrittingEffect';
 import Info from '../components/vaish-me';
 
 export default function Landing(){
