@@ -5,7 +5,7 @@ import Info from '../components/vaish-me';
 
 export default function Landing(){
     return(
-<div class="mx-24 ">
+<div class="mx-10 my-8 sm:my-10">
          <div class="container inline-flex flex-row flex-wrap justify-between items-center">
      
      <Info />

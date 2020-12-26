@@ -38,7 +38,7 @@ export default class Skills extends React.Component{
     render(){
         const {skills} = this.state;
     return(
-        <div class="my-24 grid mx-10 grid-col-1 grid-rows-16 sm:grid-flow-col sm:grid-cols-5 sm:grid-rows-5  gap-5">
+        <div class="my-24 grid mx-5 sm:mx-10 grid-col-1 grid-rows-16 sm:grid-flow-col sm:grid-cols-5 sm:grid-rows-5  gap-5">
             
                  {
       skills.map(skill => (

@@ -2,8 +2,8 @@ import React from 'react';
 
 export default function Info(){
     return(
-        <div>
-            <h1>Vaishnavi Dwivedi</h1><br></br>
+        <div class="my-20">
+            <h1 style={{fontSize: "xx-large"}}>Vaishnavi Dwivedi</h1><br></br>
             <p>Software Developer,
                Aspiring Data Scientist
                and Researcher. </p>
