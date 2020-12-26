@@ -11,13 +11,14 @@ import google from './icons-footer/google.svg';
 import instagram from './icons-footer/instagram.svg';
 import stackoverflow from './icons-footer/stackoverflow.svg';
 import twitter from './icons-footer/twitter.svg';
+import './footer.css';
 
 
 
 export default function Footer(){
     return(
-        <footer>
-        <div class="container mx-auto px-6 py-3 flex justify-center items-center">
+        <div class="kol">
+        <div class="mx-auto px-6 py-3 flex justify-center items-center">
         <a href="https://github.com/dwvicy" target="_blank" rel="noopener noreferrer">
             <img class="h-6 w-auto md:h-10  px-1" src={github} alt=""/></a>
             <a href="https://linkedin.com/in/dwvicy" target="_blank" rel="noopener noreferrer">
@@ -40,9 +41,9 @@ export default function Footer(){
             <img class="h-6 w-auto md:h-10  px-1" src={stackoverflow} alt=""/></a>
             <a href="https://medium.com/@Vaishdw2207" target="_blank" rel="noopener noreferrer">
             <img class="h-6 w-auto md:h-10  px-1" src={medium} alt=""/></a>
-        
+        </div>
     
         </div>
-    </footer>
+ 
     )
 }

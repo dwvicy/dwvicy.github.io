@@ -6,6 +6,7 @@ import './App.css';
 import Navbar from './components/navitems';
 import { BrowserRouter, Route, Link } from 'react-router-dom'; 
 import Footer from './components/footer';
+import Landing from './pages/landing';
 function App() {
  return(
 <BrowserRouter>
@@ -35,7 +36,8 @@ function App() {
    Have a look at my resume
         </a> 
 </button> */}
-    <Route exact path="/about" component={About} />
+<Route exact path="/" component={Landing} />
+    <Route path="/about" component={About} />
     <Route path="/projects" component={Projects} />
         <Route path="/articles" component={Articles} />
 
