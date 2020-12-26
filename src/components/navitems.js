@@ -8,7 +8,7 @@ const Navbar = () => (
 <nav class="flex items-center  flex-wrap p-2" >
   <div class="flex items-center flex-shrink-0">
   <Link to="/"><img src={logo} className="Logo" alt="logo" /></Link>
-  <div className="body-text text-white font-bold py-2 px-4"><a className="a" href="https://linkedin.com/in/dwvicy">@dwvicy</a></div>
+  <div className="body-text text-white font-bold py-2 px-4"><a className="a" href="/">@dwvicy</a></div>
   </div>
  
   <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
