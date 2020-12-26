@@ -1,6 +1,4 @@
 import React from 'react';
-import Button from 'react-bootstrap/Button';
-
 import Projects from './pages/projects';
 import Articles from './pages/articles';
 import About from './pages/about';
@@ -15,17 +13,12 @@ function App() {
 <Navbar  />
 
 
-
-
-
-
 <div className="App-header">
-    <Route exact path="/" component={About} />
-    <Route path="/projects" component={Projects} />
-        <Route path="/articles" component={Articles} />
 
-       
-        <h1 className='h1'> Vaishnavi Dwivedi </h1>
+
+{/* 
+
+<h1 className='h1'> Vaishnavi Dwivedi </h1>
         <p className="body-text">
           This page is currently under construction!
         </p>
@@ -40,7 +33,13 @@ function App() {
         >
    Have a look at my resume
         </a> 
-</button>
+</button> */}
+    <Route exact path="/about" component={About} />
+    <Route path="/projects" component={Projects} />
+        <Route path="/articles" component={Articles} />
+
+       
+        
            
             
      

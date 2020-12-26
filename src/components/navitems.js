@@ -19,19 +19,19 @@ const Navbar = () => (
         <ul class="flex">
     
   <li class="mr-6">
-  <button class="bg-pink-500 hover:bg-pink-400 text-white font-bold py-2 px-4 border-b-4 border-pink-700 hover:border-pink-500 rounded transform hover:scale-75 motion-reduce:transform scale-100" >
-  <Link to="/" className="link">About</Link>
-</button>
+  <Link to="/about" class="bg-pink-500 hover:bg-pink-400 text-white font-bold py-2 px-4 border-b-4 border-pink-700 hover:border-pink-500 rounded " >
+  About
+</Link>
   
   </li>
   <li class="mr-6">
-  <button class="bg-pink-500 hover:bg-pink-400 text-white font-bold py-2 px-4 border-b-4 border-pink-700 hover:border-pink-500 rounded transform hover:scale-75 motion-reduce:transform scale-100">
-  <Link to="/projects" className="link">Projects</Link></button>
+  <Link to="/projects" class="bg-pink-500 hover:bg-pink-400 text-white font-bold py-2 px-4 border-b-4 border-pink-700 hover:border-pink-500 rounded ">
+  Projects</Link>
  
   </li>
   <li class="mr-6">
-  <button class="bg-pink-500 hover:bg-pink-400 text-white font-bold py-2 px-4 border-b-4 border-pink-700 hover:border-pink-500 rounded transform hover:scale-75 motion-reduce:transform scale-100">
-  <Link to="/articles" className="link">Articles</Link></button>
+  <Link to="/articles" class="bg-pink-500 hover:bg-pink-400 text-white font-bold py-2 px-4 border-b-4 border-pink-700 hover:border-pink-500 rounded ">
+  Articles</Link>
  
  
   </li>
