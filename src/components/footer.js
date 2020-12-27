@@ -25,20 +25,20 @@ export default function Footer(){
             <img class="h-6 w-auto md:h-10 px-1" src={linkedin} alt=""/></a>
             <a href="https://twitter.com/dwvivivi" target="_blank" rel="noopener noreferrer">
             <img class="h-6 w-auto md:h-10  px-1" src={twitter} alt=""/></a>
-            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://instagram.com/cestladwvicy" target="_blank" rel="noopener noreferrer">
             <img class="h-6 w-auto md:h-10 px-1" src={instagram} alt=""/></a>
             <a href="https://bit.ly/dscrait-youtube" target="_blank" rel="noopener noreferrer">
             <img class="h-6 w-auto md:h-10  px-1" src={youtube} alt=""/></a>
             <a href="mailto:vaishdw2207@gmail.com" target="_blank" rel="noopener noreferrer">
             <img class="h-6 w-auto md:h-10  px-1" src={google} alt=""/></a>
-            <a href="https://github.com/dwvicy" target="_blank" rel="noopener noreferrer">
+            <a href="https://dribbble.com/dwvicy" target="_blank" rel="noopener noreferrer">
             <img class="h-6 w-auto md:h-10  px-1" src={dribbble} alt=""/></a>
-            <a href="https://github.com/dwvicy" target="_blank" rel="noopener noreferrer">
+            {/* <a href="https://github.com/dwvicy" target="_blank" rel="noopener noreferrer">
             <img class="h-6 w-auto md:h-10  px-1" src={behance} alt=""/></a>
             <a href="https://github.com/dwvicy" target="_blank" rel="noopener noreferrer">
             <img class="h-6 w-auto md:h-10  px-1" src={reddit} alt=""/></a>
             <a href="https://github.com/dwvicy" target="_blank" rel="noopener noreferrer">
-            <img class="h-6 w-auto md:h-10  px-1" src={stackoverflow} alt=""/></a>
+            <img class="h-6 w-auto md:h-10  px-1" src={stackoverflow} alt=""/></a> */}
             <a href="https://medium.com/@Vaishdw2207" target="_blank" rel="noopener noreferrer">
             <img class="h-6 w-auto md:h-10  px-1" src={medium} alt=""/></a>
         </div>
