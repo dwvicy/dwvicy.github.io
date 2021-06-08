@@ -1,0 +1,30 @@
+Initially source code of your portfolio website was:-
+<div class="mx-auto px-6 py-3 flex justify-center items-center">
+    <a href="https://github.com/dwvicy" target="_blank" rel="noopener noreferrer"><img class="h-6 w-auto md:h-10  px-1" src="./static/media/github.1baa5c86.svg" alt=""></a>
+    <a href="https://linkedin.com/in/dwvicy" target="_blank" rel="noopener noreferrer"><img class="h-6 w-auto md:h-10 px-1" src="./static/media/linkedin.38c8c0bc.svg" alt=""></a>
+    <a href="https://twitter.com/dwvivivi" target="_blank" rel="noopener noreferrer"><img class="h-6 w-auto md:h-10  px-1" src="./static/media/twitter.2348d452.svg" alt=""></a>
+    <a href="https://instagram.com" target="_blank" rel="noopener noreferrer"><img class="h-6 w-auto md:h-10 px-1" src="./static/media/instagram.a5a9da7a.svg" alt=""></a>
+    <a href="https://bit.ly/dscrait-youtube" target="_blank" rel="noopener noreferrer"><img class="h-6 w-auto md:h-10  px-1" src="./static/media/youtube.b48ec494.svg" alt=""></a>
+    <a href="mailto:vaishdw2207@gmail.com" target="_blank" rel="noopener noreferrer"><img class="h-6 w-auto md:h-10  px-1" src="./static/media/google.cc844b22.svg" alt=""></a>
+    <a href="https://github.com/dwvicy" target="_blank" rel="noopener noreferrer"><img class="h-6 w-auto md:h-10  px-1" src="./static/media/dribbble.3b080157.svg" alt=""></a>
+    <a href="https://github.com/dwvicy" target="_blank" rel="noopener noreferrer"><img class="h-6 w-auto md:h-10  px-1" src="./static/media/behance.493b83fe.svg" alt=""></a>
+    <a href="https://github.com/dwvicy" target="_blank" rel="noopener noreferrer"><img class="h-6 w-auto md:h-10  px-1" src="./static/media/reddit.bc7f0833.svg" alt=""></a>
+    <a href="https://github.com/dwvicy" target="_blank" rel="noopener noreferrer"><img class="h-6 w-auto md:h-10  px-1" src="./static/media/stackoverflow.7e75eee9.svg" alt=""></a>
+    <a href="https://medium.com/@Vaishdw2207" target="_blank" rel="noopener noreferrer"><img class="h-6 w-auto md:h-10  px-1" src="./static/media/medium.2fbc836b.svg" alt=""></a>
+</div>
+
+For the issue to be resolved, the code has to be upadated!
+<div class="mx-auto px-6 py-3 flex justify-center items-center">
+    <a href="https://github.com/dwvicy" target="_blank" rel="noopener noreferrer"><img class="h-6 w-auto md:h-10  px-1" src="./static/media/github.1baa5c86.svg" alt=""></a>
+    <a href="https://linkedin.com/in/dwvicy" target="_blank" rel="noopener noreferrer"><img class="h-6 w-auto md:h-10 px-1" src="./static/media/linkedin.38c8c0bc.svg" alt=""></a>
+    <a href="https://twitter.com/dwivivivi" target="_blank" rel="noopener noreferrer"><img class="h-6 w-auto md:h-10  px-1" src="./static/media/twitter.2348d452.svg" alt=""></a>
+    <a href="https://www.instagram.com/dwvicy/" target="_blank" rel="noopener noreferrer"><img class="h-6 w-auto md:h-10 px-1" src="./static/media/instagram.a5a9da7a.svg" alt=""></a>
+    <a href="https://bit.ly/dscrait-youtube" target="_blank" rel="noopener noreferrer"><img class="h-6 w-auto md:h-10  px-1" src="./static/media/youtube.b48ec494.svg" alt=""></a>
+    <a href="mailto:vaishdw2207@gmail.com" target="_blank" rel="noopener noreferrer"><img class="h-6 w-auto md:h-10  px-1" src="./static/media/google.cc844b22.svg" alt=""></a>
+    <a href="https://medium.com/@Vaishdw2207" target="_blank" rel="noopener noreferrer"><img class="h-6 w-auto md:h-10  px-1" src="./static/media/medium.2fbc836b.svg" alt=""></a>
+</div>
+
+Changes made:-
+1. Twitter account link was modified.
+2. Instagram account link was added.
+3. Unnecessary handles were removed.
